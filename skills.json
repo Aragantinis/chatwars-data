@@ -1,0 +1,284 @@
+[
+  {
+    "name": "Accuracy",
+    "code": "acc",
+    "description": "You certainly remember lessons of your master-at-arms. Your ears still hurt for shooting those arrows gods know where. Now even elves will be jelaous of your aiming skills.",
+    "effect": "Advancing this skill decreases amount of arrows you need in combat."
+  },
+  {
+    "name": "Agile Soldier",
+    "code": "as",
+    "description": "You are a true born fighter. Doing what you love inspires and excites you.",
+    "effect": "Advancing this skill increases chance to regenerate stamina during attack."
+  },
+  {
+    "name": "Aiming",
+    "code": "aim",
+    "description": "Every ranger knows the necessity of practice and adjustment to a new target. With training and experience, you learn to aim faster.",
+    "effect": "Advancing this skill reduces time needed to gain stats bonus."
+  },
+  {
+    "name": "Alchemy",
+    "code": "alm",
+    "description": "Devotion to mysterious arts of potion making taught you how to create useful elixirs from trivial ingredients.",
+    "effect": "Advancing this skill allows you to brew more advanced potions."
+  },
+  {
+    "name": "All That Glitters",
+    "code": "glt",
+    "description": "After successful defence, you are able to find extra gold lying on the ground.",
+    "effect": "Advancing this skill increases the gold you obtain on the battlefield in a successful defence."
+  },
+  {
+    "name": "Armor Mastery",
+    "code": "am",
+    "description": "Experience and training grant you bonus stats while wearing any armor.",
+    "effect": "Advancing this skill increases bonus granted to stats."
+  },
+  {
+    "name": "Barn Robber",
+    "code": "brr",
+    "description": "You pay more attention to the resources, rather than gold, so you focus on robbing barns, not banks.",
+    "effect": "Advancing this skill increases number of stock you obtain on the battlefield."
+  },
+  {
+    "name": "Blacksmith's Wonders",
+    "code": "bw",
+    "description": "Your hand is steady and your hammer is swift. Magic powers granted to you from above allow you to occasionally duplicate an item.",
+    "effect": "Advancing this skill increases the chance to craft an extra item"
+  },
+  {
+    "name": "Blunt Mastery",
+    "code": "blm",
+    "description": "Experience and training grant you bonus stats while bearing a blunt weapon.",
+    "effect": "Advancing this skill increases bonus granted to stats."
+  },
+  {
+    "name": "Bow Mastery",
+    "code": "bwm",
+    "description": "Experience and training grant you bonus stats while bearing a bow.",
+    "effect": "Advancing this skill increases bonus granted to stats."
+  },
+  {
+    "name": "Broker",
+    "code": "br",
+    "description": "As an experienced trader, you are able to look after numerous exchange deals at a time.",
+    "effect": "Advancing this skill increases maximum number of stock exchange deals."
+  },
+  {
+    "name": "Collection",
+    "code": "cll",
+    "description": "Trained eyes and natural senses help you to find more spoils upon exploration of the forests and wild territories.",
+    "effect": "Advancing this skill increases the amount of resources found."
+  },
+  {
+    "name": "Combat Potions Mastery",
+    "code": "cpm",
+    "description": "Even quiet, undistinguished scientists have to participate in warfare. Such practices allow you to make combat use of your potions - poison foes, heal friends, enchance yourself.",
+    "effect": "Advancing this skill increases bonus stats from potions. It also increases chance to poison an enemy or heal an ally."
+  },
+  {
+    "name": "Crafting",
+    "code": "cft",
+    "description": "Being an expert in your craftsmanship gives you an ability to craft complex items.",
+    "effect": "Advancing this skill allows you to craft more complicated items."
+  },
+  {
+    "name": "Critical Hit",
+    "code": "crt",
+    "description": "Your muscles are filled with weird power and you strike with all your might. Unfortunately it happens once so often.",
+    "effect": "Advancing this skill increases the chance to deal a critical strike."
+  },
+  {
+    "name": "Curiousity",
+    "code": "cty",
+    "description": "During the battle you scatter through the battlefield, looking for a shiny coin.",
+    "effect": "Advancing this skill increases the gold you obtain on the battlefield."
+  },
+  {
+    "name": "Dagger Mastery",
+    "code": "dg",
+    "description": "Experience and training grant you bonus stats while bearing a dagger.",
+    "effect": "Advancing this skill increases bonus granted to stats."
+  },
+  {
+    "name": "Educated Technician",
+    "code": "et",
+    "description": "Like a true master you are, every time you craft an item, you learn something new.",
+    "effect": "Advancing this skill increases the daily limit for bonus experience you gain from crafting."
+  },
+  {
+    "name": "Enduring Shieldbearer",
+    "code": "ens",
+    "description": "You are a true born protector. Doing what you love inspires and excites you.",
+    "effect": "Advancing this skill increases chance to regenerate stamina during defence."
+  },
+  {
+    "name": "Enlightened Warrior",
+    "code": "ew",
+    "description": "Being a naturally born warrior, you learn from your victories and losses, coming out wiser from every battle.",
+    "effect": "Advancing this skill increases the daily limit for bonus experience you gain from the battle."
+  },
+  {
+    "name": "Gifted Pathfinder",
+    "code": "gp",
+    "description": "You are a true born traveller. Doing what you love inspires and exites you.",
+    "effect": "Advancing this skill increases chance to regenerate stamina during quests."
+  },
+  {
+    "name": "Hamster",
+    "code": "hmr",
+    "description": "Your inner hamster shows you the new ways to hide your stock.",
+    "effect": "Advancing this skill decreases the amount of stock you lose upon your castle being breached."
+  },
+  {
+    "name": "Harvest",
+    "code": "hst",
+    "description": "Your studies of herbology help you to spot and collect useful and precious ingredients, whilst enjoying really nice and sunny quests.",
+    "effect": "Advancing this skill increases chance and amount of herbs found in quests."
+  },
+  {
+    "name": "Hawkeye",
+    "code": "eye",
+    "description": "Your arrow pierced your enemy to the ground. It makes it really hard for him to participate in the battle.",
+    "effect": "Advancing this skill increases the chance to wound an enemy."
+  },
+  {
+    "name": "Heavy Armor Mastery",
+    "code": "hm",
+    "description": "Experience and training grant you bonus stats while wearing heavy armor.",
+    "effect": "Advancing this skill increases bonus granted to stats."
+  },
+  {
+    "name": "Labeling",
+    "code": "lb",
+    "description": "Ability to organise stock logistics and arrange items appropriately allows you to save storage space.",
+    "effect": "Advancing this skill increases the size of your stock."
+  },
+  {
+    "name": "Light Armor Mastery",
+    "code": "lm",
+    "description": "Experience and training grant you bonus stats while wearing light armor.",
+    "effect": "Advancing this skill increases bonus granted to stats."
+  },
+  {
+    "name": "Long Life",
+    "code": "ll",
+    "description": "In search for an ultimate elixir of eternal life, you managed to at least extend your endurance on expeditions and quests.",
+    "effect": "Advancing this skill increases maximum stamina limit."
+  },
+  {
+    "name": "Look! A coin!",
+    "code": "lcn",
+    "description": "Your ancestors must be related to dragons or dwarfs, otherwise how else to explain your excellent sense of gold?",
+    "effect": "Advancing this skill increases the chance to get more and the amount of gold obtained from quests."
+  },
+  {
+    "name": "Natural Talent",
+    "code": "nt",
+    "description": "Your teacher tought you how to use your inner energy.",
+    "effect": "Advancing this skill increases the amount of mana you have."
+  },
+  {
+    "name": "Perceptive Seeker",
+    "code": "ps",
+    "description": "Having a sharp eye, you are able to learn from everything you see while on an adventure.",
+    "effect": "Advancing this skill increases the daily limit for bonus experience you gain from the quests."
+  },
+  {
+    "name": "Power Napping",
+    "code": "pn",
+    "description": "Being a mobile warrior, you are used to rest at any place under any conditions. Instantly going to sleep and making the most out of quick breaks isn't a problem for you.",
+    "effect": "Advancing this skill increases speed of stamina regeneration, while you are at rest."
+  },
+  {
+    "name": "Protector",
+    "code": "prt",
+    "description": "Being an honourable man, you look after your local villages, scouting for raiders.",
+    "effect": "Advancing this skill increases the chance to meet a person pillaging a village."
+  },
+  {
+    "name": "Prudent Duelist",
+    "code": "dl",
+    "description": "Being an excellent duelist, you learn more from your victories at the arena.",
+    "effect": "Advancing this skill increases the daily limit for bonus experience you gain from the arena."
+  },
+  {
+    "name": "Raider",
+    "code": "rdr",
+    "description": "Being a fierce warrior you loot every single coin you can find during your attacks.",
+    "effect": "Advancing this skill increases the gold you obtain on the battlefield in a successful attack."
+  },
+  {
+    "name": "Rare Mutation",
+    "code": "brm",
+    "description": "You were trained for this since you were a little kid. They were feeding you strange mushrooms and herbs. Now you can drink potions that would otherwise be poisonous as if they were water. But as a result, you are sterile.",
+    "effect": "Advancing this skill increases the duration effect of the potions."
+  },
+  {
+    "name": "Robe Armor Mastery",
+    "code": "rm",
+    "description": "Experience and training grant you bonus stats while wearing robe armor.",
+    "effect": "Advancing this skill increases bonus granted to stats."
+  },
+  {
+    "name": "Scavanger",
+    "code": "scv",
+    "description": "After a successful defence, you try to find something useful to take back home.",
+    "effect": "Advancing this skill increases the chance to find an item on the battlefield."
+  },
+  {
+    "name": "Shield Mastery",
+    "code": "shd",
+    "description": "Experience and training grant you bonus stats while bearing a shield.",
+    "effect": "Advancing this skill increases bonus granted to stats."
+  },
+  {
+    "name": "Smart Explorer",
+    "code": "se",
+    "description": "Mysterious objects hide many secrets. You always learn something new, when you find them.",
+    "effect": "Advancing this skill increases the daily limit for bonus experience you gain from finding extra items."
+  },
+  {
+    "name": "Spear Mastery",
+    "code": "spr",
+    "description": "Experience and training grant you bonus stats while bearing a spear.",
+    "effect": "Advancing this skill increases bonus granted to stats."
+  },
+  {
+    "name": "Sword Mastery",
+    "code": "swd",
+    "description": "Experience and training grant you bonus stats while bearing a sword.",
+    "effect": "Advancing this skill increases bonus granted to stats."
+  },
+  {
+    "name": "Tactics",
+    "code": "tcs",
+    "description": "True protector studies how his enemies attack. That allows him to develop unique tactics that are most efficient against specific foes.",
+    "effect": "Advancing this skill decreases effectiveness of attack from selected castle."
+  },
+  {
+    "name": "Tight Grip",
+    "code": "tgp",
+    "description": "Your firm grip prevents you from losing your equipment on the battlefield.",
+    "effect": "Advancing this skill decreases the chance to lose your equipment on the battlefield."
+  },
+  {
+    "name": "Weapon Mastery",
+    "code": "wm",
+    "description": "Experience and training grant you bonus stats while bearing any weapon.",
+    "effect": "Advancing this skill increases bonus granted to stats."
+  },
+  {
+    "name": "Wise Alchemist",
+    "code": "wal",
+    "description": "With every potion you create, you think of a new way to improve your technique.",
+    "effect": "Advancing this skill increases the daily limit for bonus experience you gain from brewing."
+  },
+  {
+    "name": "Work to Standards",
+    "code": "ws",
+    "description": "By mastering every technique known to mankind, you have created your own blueprints that allow you to save some materials.",
+    "effect": "Advancing this skill increases the chance and the amount of materials saved while crafting."
+  }
+]

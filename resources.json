@@ -1,0 +1,422 @@
+[
+  {
+    "name": "Thread",
+    "code": "01",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Stick",
+    "code": "02",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Pelt",
+    "code": "03",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Bone",
+    "code": "04",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Coal",
+    "code": "05",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Charcoal",
+    "code": "06",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Powder",
+    "code": "07",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Iron Ore",
+    "code": "08",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Cloth",
+    "code": "09",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Magic Stone",
+    "code": "13",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Steel",
+    "code": "19",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Leather",
+    "code": "20",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Bone Powder",
+    "code": "21",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "String",
+    "code": "22",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Coke",
+    "code": "23",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Pouch of Gold",
+    "code": "100",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Scroll of Rage",
+    "code": "s01",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Scroll of Peace",
+    "code": "s02",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Rare Scroll of Rage",
+    "code": "s11",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Rare Scroll of Peace",
+    "code": "s12",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Adamantite ore",
+    "code": "14",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Valentine's Card",
+    "code": "vc",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Cake",
+    "code": "e6",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Chocolate",
+    "code": "e9",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Wrapping",
+    "code": "501",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Sugar",
+    "code": "e5",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Torch",
+    "code": "tch",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Milk",
+    "code": "e4",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Flour",
+    "code": "e3",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Egg",
+    "code": "e2",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Cocoa powder",
+    "code": "e1",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Ash Rosemary",
+    "code": "53",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Assassin Vine",
+    "code": "63",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Bottle of Greed",
+    "code": "p09",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Bottle of Peace",
+    "code": "p06",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Bottle of Poison",
+    "code": "508",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Bottle of Rage",
+    "code": "p03",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Bottle of Remedy",
+    "code": "506",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Cave Garlic",
+    "code": "49",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Cliff Rue",
+    "code": "41",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Dragon Seed",
+    "code": "57",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Ephijora",
+    "code": "47",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Ethereal Bone",
+    "code": "61",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Ilaves",
+    "code": "46",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Itacory",
+    "code": "62",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Kloliarway",
+    "code": "64",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Love Creeper",
+    "code": "42",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Maccunut",
+    "code": "56",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Mercy Sassafras",
+    "code": "40",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Plasma of Abyss",
+    "code": "59",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Potion of Greed",
+    "code": "p08",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Potion of Peace",
+    "code": "p05",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Potion of Rage",
+    "code": "p02",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Queen's Pepper",
+    "code": "58",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Sanguine Parsley",
+    "code": "54",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Spring Bay Leaf",
+    "code": "52",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Stinky Sumac",
+    "code": "39",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Storm Hyssop",
+    "code": "48",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Sun Tarragon",
+    "code": "55",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Swamp Lavender",
+    "code": "44",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Tecceagrass",
+    "code": "51",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Ultramarine Dust",
+    "code": "60",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Vial of Greed",
+    "code": "p07",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Vial of Peace",
+    "code": "p04",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Vial of Rage",
+    "code": "p01",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "White Blossom",
+    "code": "45",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Wolf Root",
+    "code": "43",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "item_name",
+    "code": "505",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Wrapping",
+    "code": "501",
+    "tradable": false,
+    "craftable": false
+  },
+  {
+    "name": "Yellow Seed",
+    "code": "50",
+    "tradable": false,
+    "craftable": false
+  }
+]

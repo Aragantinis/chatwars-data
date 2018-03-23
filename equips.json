@@ -1,0 +1,533 @@
+[
+  {
+    "name": "Wooden sword",
+    "code": "w01",
+    "type": "sword",
+    "atk": 1,
+    "def": 0,
+    "price": 3,
+    "command": "/buy_sword1",
+    "redbook": false
+  },
+  {
+    "name": "Short sword",
+    "code": "00",
+    "type": "sword",
+    "atk": 3,
+    "def": 0,
+    "price": 30,
+    "command": "/buy_sword2",
+    "redbook": false
+  },
+  {
+    "name": "Long sword",
+    "code": "00",
+    "type": "sword",
+    "atk": 6,
+    "def": 0,
+    "price": 244,
+    "command": "/buy_sword3",
+    "redbook": false
+  },
+  {
+    "name": "Widow sword",
+    "code": "00",
+    "type": "sword",
+    "atk": 10,
+    "def": 0,
+    "price": 645,
+    "command": "/buy_sword4",
+    "redbook": false
+  },
+  {
+    "name": "Knight's sword",
+    "code": "00",
+    "type": "sword",
+    "atk": 16,
+    "def": 0,
+    "price": 1440,
+    "command": "/buy_sword5",
+    "type": "type",
+    "redbook": true
+  },
+  {
+    "name": "Elven sword",
+    "code": "00",
+    "type": "sword",
+    "atk": 22,
+    "def": 0,
+    "price": 1800,
+    "command": "/buy_sword6",
+    "redbook": true
+  },
+  {
+    "name": "Rapier",
+    "code": "00",
+    "type": "sword",
+    "atk": 27,
+    "def": 0,
+    "price": 3100,
+    "command": "/buy_sword7",
+    "redbook": true
+  },
+  {
+    "name": "Short spear",
+    "code": "00",
+    "type": "spear",
+    "atk": 3,
+    "def": 1,
+    "price": 55,
+    "command": "/buy_spear1",
+    "redbook": false
+  },
+  {
+    "name": "Long spear",
+    "code": "00",
+    "type": "spear",
+    "atk": 5,
+    "def": 3,
+    "price": 364,
+    "command": "/buy_spear2",
+    "redbook": false
+  },
+  {
+    "name": "Lance",
+    "code": "00",
+    "type": "spear",
+    "atk": 11,
+    "def": 5,
+    "price": 976,
+    "command": "/buy_spear3",
+    "redbook": true
+  },
+  {
+    "name": "Elven spear",
+    "code": "00",
+    "type": "spear",
+    "atk": 12,
+    "def": 7,
+    "price": 1414,
+    "command": "/buy_spear4",
+    "redbook": true
+  },
+  {
+    "name": "Halberd",
+    "code": "w12",
+    "type": "spear",
+    "atk": 14,
+    "def": 10,
+    "price": 2300,
+    "command": "/buy_spear5",
+    "redbook": true
+  },
+  {
+    "name": "Short Bow",
+    "code": "00",
+    "type": "bow",
+    "atk": 4,
+    "def": 1,
+    "price": 68,
+    "command": "/buy_bow1",
+    "redbook": false
+  },
+  {
+    "name": "Wooden Bow",
+    "code": "00",
+    "type": "bow",
+    "atk": 8,
+    "def": 2,
+    "price": 410,
+    "command": "/buy_bow2",
+    "redbook": false
+  },
+  {
+    "name": "Long Bow",
+    "code": "00",
+    "type": "bow",
+    "atk": 12,
+    "def": 4,
+    "price": 845,
+    "command": "/buy_bow3",
+    "redbook": false
+  },
+  {
+    "name": "Elven Bow",
+    "code": "00",
+    "type": "bow",
+    "atk": 16,
+    "def": 5,
+    "price": 1618,
+    "command": "/buy_bow4",
+    "redbook": true
+  },
+  {
+    "name": "Forest Bow",
+    "code": "22",
+    "type": "bow",
+    "atk": 18,
+    "def": 6,
+    "price": 2424,
+    "command": "/buy_bow5",
+    "redbook": true
+  },
+  {
+    "name": "Club",
+    "code": "00",
+    "type": "blunt",
+    "atk": 2,
+    "def": 2,
+    "price": 62,
+    "command": "/buy_blunt1",
+    "redbook": false
+  },
+  {
+    "name": "Bone club",
+    "code": "00",
+    "type": "blunt",
+    "atk": 4,
+    "def": 4,
+    "price": 372,
+    "command": "/buy_blunt2",
+    "redbook": false
+  },
+  {
+    "name": "Heavy club",
+    "code": "00",
+    "type": "blunt",
+    "atk": 7,
+    "def": 7,
+    "price": 820,
+    "command": "/buy_blunt3",
+    "redbook": false
+  },
+  {
+    "name": "Steel axe",
+    "code": "00",
+    "type": "blunt",
+    "atk": 9,
+    "def": 9,
+    "price": 1470,
+    "command": "/buy_blunt4",
+    "redbook": true
+  },
+  {
+    "name": "Mithril axe",
+    "code": "00",
+    "type": "blunt",
+    "atk": 11,
+    "def": 11,
+    "price": 2450,
+    "command": "/buy_blunt5",
+    "redbook": true
+  },
+  {
+    "name": "Kitchen knife",
+    "code": "w13",
+    "type": "dagger",
+    "atk": 1,
+    "def": 0,
+    "price": 3,
+    "command": "/buy_dagger1",
+    "redbook": false
+  },
+  {
+    "name": "Battle knife",
+    "code": "00",
+    "type": "dagger",
+    "atk": 2,
+    "def": 0,
+    "price": 50,
+    "command": "/buy_dagger2",
+    "redbook": false
+  },
+  {
+    "name": "Steel dagger",
+    "code": "00",
+    "type": "dagger",
+    "atk": 3,
+    "def": 0,
+    "price": 103,
+    "command": "/buy_dagger3",
+    "redbook": false
+  },
+  {
+    "name": "Silver dagger",
+    "code": "00",
+    "type": "dagger",
+    "atk": 5,
+    "def": 0,
+    "price": 311,
+    "command": "/buy_dagger4",
+    "redbook": true
+  },
+  {
+    "name": "Mithril dagger",
+    "code": "00",
+    "type": "dagger",
+    "atk": 7,
+    "def": 0,
+    "price": 498,
+    "command": "/buy_dagger5",
+    "redbook": true
+  },
+  {
+    "name": "Wooden shield",
+    "code": "a21",
+    "type": "shield",
+    "atk": 0,
+    "def": 1,
+    "price": 3,
+    "command": "/buy_shield1",
+    "redbook": false
+  },
+  {
+    "name": "Skeleton Buckler",
+    "code": "00",
+    "type": "shield",
+    "atk": 0,
+    "def": 2,
+    "price": 50,
+    "command": "/buy_shield2",
+    "redbook": false
+  },
+  {
+    "name": "Bronze shield",
+    "code": "00",
+    "type": "shield",
+    "atk": 0,
+    "def": 3,
+    "price": 103,
+    "command": "/buy_shield3",
+    "redbook": false
+  },
+  {
+    "name": "Silver shield",
+    "code": "00",
+    "type": "shield",
+    "atk": 0,
+    "def": 5,
+    "price": 311,
+    "command": "/buy_shield4",
+    "redbook": true
+  },
+  {
+    "name": "Mithril shield",
+    "code": "a25",
+    "type": "shield",
+    "atk": 0,
+    "def": 7,
+    "price": 498,
+    "command": "/buy_shield5",
+    "redbook": true
+  },
+  {
+    "name": "Cloth jacket",
+    "code": "a01",
+    "type": "armor",
+    "atk": 0,
+    "def": 2,
+    "price": 3,
+    "command": "/buy_armor1",
+    "redbook": false
+  },
+  {
+    "name": "Leather shirt",
+    "code": "00",
+    "type": "armor",
+    "atk": 0,
+    "def": 4,
+    "price": 30,
+    "command": "/buy_armor2",
+    "redbook": false
+  },
+  {
+    "name": "Chain mail",
+    "code": "00",
+    "type": "armor",
+    "atk": 0,
+    "def": 12,
+    "price": 250,
+    "command": "/buy_armor3",
+    "redbook": false
+  },
+  {
+    "name": "Silver cuirass",
+    "code": "00",
+    "type": "armor",
+    "atk": 1,
+    "def": 15,
+    "price": 430,
+    "command": "/buy_armor4",
+    "redbook": true
+  },
+  {
+    "name": "Mithril armor",
+    "code": "00",
+    "type": "armor",
+    "atk": 3,
+    "def": 17,
+    "price": 690,
+    "command": "/buy_armor5",
+    "redbook": true
+  },
+  {
+    "name": "Hat",
+    "code": "a06",
+    "type": "helmet",
+    "atk": 0,
+    "def": 1,
+    "price": 1,
+    "command": "/buy_helmet1",
+    "redbook": false
+  },
+  {
+    "name": "Leather hood",
+    "code": "00",
+    "type": "helmet",
+    "atk": 0,
+    "def": 2,
+    "price": 35,
+    "command": "/buy_helmet2",
+    "redbook": false
+  },
+  {
+    "name": "Steel helmet",
+    "code": "00",
+    "type": "helmet",
+    "atk": 0,
+    "def": 3,
+    "price": 80,
+    "command": "/buy_helmet3",
+    "redbook": false
+  },
+  {
+    "name": "Silver helmet",
+    "code": "00",
+    "type": "helmet",
+    "atk": 0,
+    "def": 7,
+    "price": 238,
+    "command": "/buy_helmet4",
+    "redbook": true
+  },
+  {
+    "name": "Mithril helmet",
+    "code": "00",
+    "type": "helmet",
+    "atk": 0,
+    "def": 12,
+    "price": 510,
+    "command": "/buy_helmet5",
+    "redbook": true
+  },
+  {
+    "name": "Sandals",
+    "code": "a11",
+    "type": "boots",
+    "atk": 0,
+    "def": 1,
+    "price": 1,
+    "command": "/buy_boots1",
+    "redbook": false
+  },
+  {
+    "name": "Leather shoes",
+    "code": "00",
+    "type": "boots",
+    "atk": 0,
+    "def": 2,
+    "price": 43,
+    "command": "/buy_boots2",
+    "redbook": false
+  },
+  {
+    "name": "Steel boots",
+    "code": "00",
+    "type": "boots",
+    "atk": 0,
+    "def": 3,
+    "price": 92,
+    "command": "/buy_boots3",
+    "redbook": false
+  },
+  {
+    "name": "Silver boots",
+    "code": "00",
+    "type": "boots",
+    "atk": 0,
+    "def": 5,
+    "price": 285,
+    "command": "/buy_boots4",
+    "redbook": true
+  },
+  {
+    "name": "Mithril boots",
+    "code": "a15",
+    "type": "boots",
+    "atk": 0,
+    "def": 8,
+    "price": 490,
+    "command": "/buy_boots5",
+    "redbook": true
+  },
+  {
+    "name": "Gloves",
+    "code": "a16",
+    "type": "gloves",
+    "atk": 0,
+    "def": 1,
+    "price": 1,
+    "command": "/buy_gloves1",
+    "redbook": false
+  },
+  {
+    "name": "Leather gloves",
+    "code": "00",
+    "type": "boots",
+    "atk": 0,
+    "def": 2,
+    "price": 43,
+    "command": "/buy_gloves2",
+    "redbook": false
+  },
+  {
+    "name": "Steel gauntlets",
+    "code": "00",
+    "type": "boots",
+    "atk": 0,
+    "def": 3,
+    "price": 92,
+    "command": "/buy_gloves3",
+    "redbook": false
+  },
+  {
+    "name": "Silver gauntlets",
+    "code": "00",
+    "type": "boots",
+    "atk": 0,
+    "def": 5,
+    "price": 285,
+    "command": "/buy_gloves4",
+    "redbook": true
+  },
+  {
+    "name": "Mithril gauntlets",
+    "code": "20",
+    "type": "boots",
+    "atk": 0,
+    "def": 8,
+    "price": 490,
+    "command": "/buy_gloves5",
+    "redbook": true
+  },
+  {
+    "name": "Royal Guard Cape",
+    "code": "a26",
+    "type": "cape",
+    "atk": 1,
+    "def": 1,
+    "price": 0,
+    "command": null,
+    "redbook": false
+  }
+]

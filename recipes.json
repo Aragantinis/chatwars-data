@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Leather",
+    "cost": 1,
+    "materials": [
+      {
+        "name": "Pelt",
+        "quantity": 4
+      }
+    ]
+  },
+  {
+    "name": "Pouch of Gold",
+    "cost": 120,
+    "materials": [
+      {
+        "name": "Leather",
+        "quantity": 2
+      },
+      {
+        "name": "Thread",
+        "quantity": 12
+      }
+    ]
+  },
+  {
+    "name": "String",
+    "cost": 1,
+    "materials": [
+      {
+        "name": "Stick",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "name": "Wrapping",
+    "cost": 1,
+    "materials": [
+      {
+        "name": "Cloth",
+        "quantity": 3
+      },
+      {
+        "name": "String",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "name": "Coke",
+    "cost": 1,
+    "materials": [
+      {
+        "name": "Charcoal",
+        "quantity": 3
+      },
+      {
+        "name": "Coal",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "name": "Torch",
+    "cost": 1,
+    "materials": [
+      {
+        "name": "Stick",
+        "quantity": 5
+      },
+      {
+        "name": "Coke",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Bone Powder",
+    "cost": 1,
+    "materials": [
+      {
+        "name": "Bone",
+        "quantity": 4
+      }
+    ]
+  },
+  {
+    "name": "Steel",
+    "cost": 1,
+    "materials": [
+      {
+        "name": "Powder",
+        "quantity": 2
+      },
+      {
+        "name": "Iron Ore",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "name": "Cake",
+    "cost": 1,
+    "materials": [
+      {
+        "name": "Egg",
+        "quantity": 4
+      },
+      {
+        "name": "Milk",
+        "quantity": 1
+      },
+      {
+        "name": "Flour",
+        "quantity": 1
+      },
+      {
+        "name": "Cocoa powder",
+        "quantity": 1
+      },
+      {
+        "name": "Sugar",
+        "quantity": 1
+      }
+    ]
+  }
+]
