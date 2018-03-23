@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Knight",
+    "description": "The backbone of the kingdom's attack forces. The King relies on their swords when he wants to come back victorious, with gold and glory, from his conquests.",
+    "equipment": "sword, dagger, light armor",
+    "stats": {
+      "attack": 0.7,
+      "defense": 0.3
+    },
+    "skills": [
+      { "name": "skill_name", "code": "00" },
+      { "name": "skill_name", "code": "00" },
+      { "name": "skill_name", "code": "00" },
+      { "name": "skill_name", "code": "00" },
+      { "name": "skill_name", "code": "00" },
+      { "name": "skill_name", "code": "00" },
+      { "name": "skill_name", "code": "00" }
+    ]
+  },
+  {
+    "name": "Sentinel",
+    "description": "Main defensive forces of the castle. They are first to meet the enemy at the castle gate and defend their homeland with their life.",
+    "equipment": "spear, shield, heavy armor",
+    "stats": {
+      "attack": 0.3,
+      "defense": 0.7
+    },
+    "skills": [
+      { "name": "skill_name", "code": "00" },
+      { "name": "skill_name", "code": "00" },
+      { "name": "skill_name", "code": "00" },
+      { "name": "skill_name", "code": "00" },
+      { "name": "skill_name", "code": "00" },
+      { "name": "skill_name", "code": "00" },
+      { "name": "skill_name", "code": "00" }
+    ]
+  },
+  {
+    "name": "Ranger",
+    "description": "Castle's mobile forces. Can either strengthen attack power or boost defense of the castle walls.",
+    "equipment": "bow and light armor",
+    "stats": {
+      "attack": 0.6,
+      "defense": 0.4
+    },
+    "skills": [
+      { "name": "skill_name", "code": "00" },
+      { "name": "skill_name", "code": "00" },
+      { "name": "skill_name", "code": "00" },
+      { "name": "skill_name", "code": "00" },
+      { "name": "skill_name", "code": "00" },
+      { "name": "skill_name", "code": "00" },
+      { "name": "skill_name", "code": "00" }
+    ]
+  },
+  {
+    "name": "Blacksmith",
+    "description": "Blacksmith provides all warriors with the equipment. They feel themselves more comfortable behind their stall, rather than on the battlefield.",
+    "equipment": "blunt weapons and robe",
+    "stats": {
+      "attack": 0.45,
+      "defense": 0.55
+    },
+    "skills": [
+      { "name": "skill_name", "code": "00" },
+      { "name": "skill_name", "code": "00" },
+      { "name": "skill_name", "code": "00" },
+      { "name": "skill_name", "code": "00" },
+      { "name": "skill_name", "code": "00" },
+      { "name": "skill_name", "code": "00" },
+      { "name": "skill_name", "code": "00" }
+    ]
+  },
+  {
+    "name": "Collector",
+    "description": "Collectors provide castles with supplies. They are able to find rare items and resources. Collectors are the foundation of the economy in the Seven Kingdoms.",
+    "equipment": "blunt weapons and light armor",
+    "stats": {
+      "attack": 0.55,
+      "defense": 0.45
+    },
+    "skills": [
+      { "name": "skill_name", "code": "00" },
+      { "name": "skill_name", "code": "00" },
+      { "name": "skill_name", "code": "00" },
+      { "name": "skill_name", "code": "00" },
+      { "name": "skill_name", "code": "00" },
+      { "name": "skill_name", "code": "00" },
+      { "name": "skill_name", "code": "00" }
+    ]
+  },
+  {
+    "name": "Alchemist",
+    "description": "Alchemists devoted their time to mystical sciences and herbology. They know how to turn peaceful ingredients into deadly weapons or powerful healing tools.",
+    "equipment": "weapon, robe",
+    "stats": {
+      "attack": 0.40,
+      "defense": 0.60
+    },
+    "skills": [
+      { "name": "skill_name", "code": "00" },
+      { "name": "skill_name", "code": "00" },
+      { "name": "skill_name", "code": "00" },
+      { "name": "skill_name", "code": "00" },
+      { "name": "skill_name", "code": "00" },
+      { "name": "skill_name", "code": "00" },
+      { "name": "skill_name", "code": "00" }
+    ]
+  }
+]
