@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Kitchen knife",
+    "code": "w13",
+    "type": "dagger",
+    "attack": 1,
+    "defense": 0,
+    "price": 3
+  },
+  {
+    "name": "Battle knife",
+    "code": "w14",
+    "type": "dagger",
+    "attack": 2,
+    "defense": 0,
+    "price": 50
+  },
+  {
+    "name": "Steel dagger",
+    "code": "w15",
+    "type": "dagger",
+    "attack": 3,
+    "defense": 0,
+    "price": 103
+  },
+  {
+    "name": "Silver dagger",
+    "code": "w16",
+    "type": "dagger",
+    "attack": 5,
+    "defense": 0,
+    "price": 311,
+    "redbook": true
+  },
+  {
+    "name": "Mithril dagger",
+    "code": "w17",
+    "type": "dagger",
+    "attack": 7,
+    "defense": 0,
+    "price": 498,
+    "redbook": true
+  },
+  {
+    "name": "Hunter dagger",
+    "code": "w32",
+    "type": "dagger",
+    "attack": 10,
+    "defense": 0,
+    "greenbook": true
+  }
+]

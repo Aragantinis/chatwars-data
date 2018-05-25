@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Sandals",
+    "code": "a11",
+    "type": "boots",
+    "attack": 0,
+    "defense": 1,
+    "price": 1
+  },
+  {
+    "name": "Leather shoes",
+    "code": "a12",
+    "type": "boots",
+    "attack": 0,
+    "defense": 2,
+    "price": 43
+  },
+  {
+    "name": "Steel boots",
+    "code": "a13",
+    "type": "boots",
+    "attack": 0,
+    "defense": 3,
+    "price": 92
+  },
+  {
+    "name": "Silver boots",
+    "code": "a14",
+    "type": "boots",
+    "attack": 0,
+    "defense": 5,
+    "price": 285,
+    "redbook": true
+  },
+  {
+    "name": "Mithril boots",
+    "code": "a15",
+    "type": "boots",
+    "attack": 0,
+    "defense": 8,
+    "price": 490,
+    "redbook": true
+  },
+  {
+    "name": "Clarity Shoes",
+    "code": "a38",
+    "type": "boots",
+    "subtype": "robe",
+    "attack": 1,
+    "defense": 9,
+    "mana": 40,
+    "greenbook": true
+  },
+  {
+    "name": "Order Boots",
+    "code": "a29",
+    "type": "boots",
+    "subtype": "heavy",
+    "attack": 2,
+    "defense": 10,
+    "greenbook": true
+  },
+  {
+    "name": "Hunter Boots",
+    "code": "a34",
+    "type": "boots",
+    "subtype": "light",
+    "attack": 3,
+    "defense": 8,
+    "greenbook": true
+  }
+]

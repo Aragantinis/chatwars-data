@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Gloves",
+    "code": "a16",
+    "type": "gloves",
+    "attack": 0,
+    "defense": 1,
+    "price": 1
+  },
+  {
+    "name": "Leather gloves",
+    "code": "a17",
+    "type": "gloves",
+    "attack": 0,
+    "defense": 2,
+    "price": 43
+  },
+  {
+    "name": "Steel gauntlets",
+    "code": "a18",
+    "type": "gloves",
+    "attack": 0,
+    "defense": 3,
+    "price": 92
+  },
+  {
+    "name": "Silver gauntlets",
+    "code": "a19",
+    "type": "gloves",
+    "attack": 0,
+    "defense": 5,
+    "price": 285,
+    "redbook": true
+  },
+  {
+    "name": "Mithril gauntlets",
+    "code": "a20",
+    "type": "gloves",
+    "attack": 0,
+    "defense": 8,
+    "price": 490,
+    "redbook": true
+  },
+  {
+    "name": "Clarity Bracers",
+    "code": "a39",
+    "type": "gloves",
+    "subtype": "robe",
+    "attack": 1,
+    "defense": 9,
+    "mana": 40,
+    "greenbook": true
+  },
+  {
+    "name": "Order Gauntlets",
+    "code": "a30",
+    "type": "gloves",
+    "subtype": "heavy",
+    "attack": 2,
+    "defense": 10,
+    "greenbook": true
+  },
+  {
+    "name": "Hunter Gloves",
+    "code": "a35",
+    "type": "gloves",
+    "subtype": "light",
+    "attack": 3,
+    "defense": 8,
+    "greenbook": true
+  }
+]

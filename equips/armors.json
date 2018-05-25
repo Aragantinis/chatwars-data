@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Cloth jacket",
+    "code": "a01",
+    "type": "armor",
+    "attack": 0,
+    "defense": 2,
+    "price": 3
+  },
+  {
+    "name": "Leather shirt",
+    "code": "a02",
+    "type": "armor",
+    "attack": 0,
+    "defense": 4,
+    "price": 30
+  },
+  {
+    "name": "Chain mail",
+    "code": "a03",
+    "type": "armor",
+    "attack": 0,
+    "defense": 12,
+    "price": 250
+  },
+  {
+    "name": "Silver cuirass",
+    "code": "a04",
+    "type": "armor",
+    "attack": 1,
+    "defense": 15,
+    "price": 430,
+    "redbook": true
+  },
+  {
+    "name": "Mithril armor",
+    "code": "a05",
+    "type": "armor",
+    "attack": 3,
+    "defense": 17,
+    "price": 690,
+    "redbook": true
+  },
+  {
+    "name": "Clarity Robe",
+    "code": "a36",
+    "type": "armor",
+    "subtype": "robe",
+    "attack": 4,
+    "defense": 20,
+    "mana": 120,
+    "greenbook": true
+  },
+  {
+    "name": "Order Armor",
+    "code": "a27",
+    "type": "armor",
+    "subtype": "heavy",
+    "attack": 5,
+    "defense": 25,
+    "greenbook": true
+  },
+  {
+    "name": "Hunter Armor",
+    "code": "a32",
+    "type": "armor",
+    "subtype": "light",
+    "attack": 8,
+    "defense": 18,
+    "greenbook": true
+  }
+]

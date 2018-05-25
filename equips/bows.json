@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Short Bow",
+    "code": "w18",
+    "type": "bow",
+    "attack": 4,
+    "defense": 1,
+    "price": 68
+  },
+  {
+    "name": "Wooden Bow",
+    "code": "w19",
+    "type": "bow",
+    "attack": 8,
+    "defense": 2,
+    "price": 410
+  },
+  {
+    "name": "Long Bow",
+    "code": "w20",
+    "type": "bow",
+    "attack": 12,
+    "defense": 4,
+    "price": 845
+  },
+  {
+    "name": "Elven Bow",
+    "code": "w21",
+    "type": "bow",
+    "attack": 16,
+    "defense": 5,
+    "price": 1618,
+    "redbook": true
+  },
+  {
+    "name": "Forest Bow",
+    "code": "w22",
+    "type": "bow",
+    "attack": 18,
+    "defense": 6,
+    "price": 2424,
+    "redbook": true
+  },
+  {
+    "name": "Hunter Bow",
+    "code": "w30",
+    "type": "bow",
+    "attack": 22,
+    "defense": 8,
+    "greenbook": true
+  }
+]

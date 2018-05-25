@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Club",
+    "code": "w23",
+    "type": "blunt",
+    "attack": 2,
+    "defense": 2,
+    "price": 62
+  },
+  {
+    "name": "Bone club",
+    "code": "w24",
+    "type": "blunt",
+    "attack": 4,
+    "defense": 4,
+    "price": 372
+  },
+  {
+    "name": "Heavy club",
+    "code": "w25",
+    "type": "blunt",
+    "attack": 7,
+    "defense": 7,
+    "price": 820
+  },
+  {
+    "name": "Steel axe",
+    "code": "w26",
+    "type": "blunt",
+    "attack": 9,
+    "defense": 9,
+    "price": 1470,
+    "redbook": true
+  },
+  {
+    "name": "Mithril axe",
+    "code": "w27",
+    "type": "blunt",
+    "attack": 11,
+    "defense": 11,
+    "price": 2450,
+    "redbook": true
+  },
+  {
+    "name": "War hammer",
+    "code": "w31",
+    "type": "blunt",
+    "attack": 15,
+    "defense": 15,
+    "greenbook": true
+  }
+]

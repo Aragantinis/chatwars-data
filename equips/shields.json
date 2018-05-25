@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Wooden shield",
+    "code": "a21",
+    "type": "shield",
+    "attack": 0,
+    "defense": 1,
+    "price": 3
+  },
+  {
+    "name": "Skeleton Buckler",
+    "code": "a22",
+    "type": "shield",
+    "attack": 0,
+    "defense": 2,
+    "price": 50
+  },
+  {
+    "name": "Bronze shield",
+    "code": "a23",
+    "type": "shield",
+    "attack": 0,
+    "defense": 3,
+    "price": 103
+  },
+  {
+    "name": "Silver shield",
+    "code": "a24",
+    "type": "shield",
+    "attack": 0,
+    "defense": 5,
+    "price": 311,
+    "redbook": true
+  },
+  {
+    "name": "Mithril shield",
+    "code": "a25",
+    "type": "shield",
+    "attack": 0,
+    "defense": 7,
+    "price": 498,
+    "redbook": true
+  }
+]

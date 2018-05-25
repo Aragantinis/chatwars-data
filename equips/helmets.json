@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Hat",
+    "code": "a06",
+    "type": "helmet",
+    "attack": 0,
+    "defense": 1,
+    "price": 1
+  },
+  {
+    "name": "Leather hood",
+    "code": "a07",
+    "type": "helmet",
+    "attack": 0,
+    "defense": 2,
+    "price": 35
+  },
+  {
+    "name": "Steel helmet",
+    "code": "a08",
+    "type": "helmet",
+    "attack": 0,
+    "defense": 3,
+    "price": 80
+  },
+  {
+    "name": "Silver helmet",
+    "code": "a09",
+    "type": "helmet",
+    "attack": 0,
+    "defense": 7,
+    "price": 238,
+    "redbook": true
+  },
+  {
+    "name": "Mithril helmet",
+    "code": "a10",
+    "type": "helmet",
+    "attack": 0,
+    "defense": 12,
+    "price": 510,
+    "redbook": true
+  },
+  {
+    "name": "Clarity Circlet",
+    "code": "a37",
+    "type": "helmet",
+    "subtype": "robe",
+    "attack": 2,
+    "defense": 12,
+    "mana": 80,
+    "greenbook": true
+  },
+  {
+    "name": "Order Helmet",
+    "code": "a28",
+    "type": "helmet",
+    "subtype": "heavy",
+    "attack": 3,
+    "defense": 15,
+    "greenbook": true
+  },
+  {
+    "name": "Hunter Helmet",
+    "code": "a35",
+    "type": "helmet",
+    "subtype": "light",
+    "attack": 5,
+    "defense": 11,
+    "greenbook": true
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Short spear",
+    "code": "w08",
+    "type": "spear",
+    "attack": 3,
+    "defense": 1,
+    "price": 55
+  },
+  {
+    "name": "Long spear",
+    "code": "w09",
+    "type": "spear",
+    "attack": 5,
+    "defense": 3,
+    "price": 364
+  },
+  {
+    "name": "Lance",
+    "code": "w10",
+    "type": "spear",
+    "attack": 11,
+    "defense": 5,
+    "price": 976,
+    "redbook": true
+  },
+  {
+    "name": "Elven spear",
+    "code": "w11",
+    "type": "spear",
+    "attack": 12,
+    "defense": 7,
+    "price": 1414,
+    "redbook": true
+  },
+  {
+    "name": "Halberd",
+    "code": "w12",
+    "type": "spear",
+    "attack": 14,
+    "defense": 10,
+    "price": 2300,
+    "redbook": true
+  },
+  {
+    "name": "Trident",
+    "code": "w29",
+    "type": "spear",
+    "attack": 16,
+    "defense": 14,
+    "greenbook": true
+  }
+]

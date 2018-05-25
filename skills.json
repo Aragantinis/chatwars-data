@@ -186,6 +186,12 @@
     "effect": "Advancing this skill increases the daily limit for bonus experience you gain from the quests."
   },
   {
+    "name": "Perception",
+    "code": "prn",
+    "description": "description",
+    "effect": "effect"
+  },
+  {
     "name": "Power Napping",
     "code": "pn",
     "description": "Being a mobile warrior, you are used to rest at any place under any conditions. Instantly going to sleep and making the most out of quick breaks isn't a problem for you.",

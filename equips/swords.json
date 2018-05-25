@@ -1,0 +1,69 @@
+[
+  {
+    "name": "Wooden sword",
+    "code": "w01",
+    "type": "sword",
+    "attack": 1,
+    "defense": 0,
+    "price": 3
+  },
+  {
+    "name": "Short sword",
+    "code": "w02",
+    "type": "sword",
+    "attack": 3,
+    "defense": 0,
+    "price": 30
+  },
+  {
+    "name": "Long sword",
+    "code": "w03",
+    "type": "sword",
+    "attack": 6,
+    "defense": 0,
+    "price": 244
+  },
+  {
+    "name": "Widow sword",
+    "code": "w04",
+    "type": "sword",
+    "attack": 10,
+    "defense": 0,
+    "price": 645
+  },
+  {
+    "name": "Knight's sword",
+    "code": "w05",
+    "type": "sword",
+    "attack": 16,
+    "defense": 0,
+    "price": 1440,
+    "redbook": true
+  },
+  {
+    "name": "Elven sword",
+    "code": "w06",
+    "type": "sword",
+    "attack": 22,
+    "defense": 0,
+    "price": 1800,
+    "redbook": true
+  },
+  {
+    "name": "Rapier",
+    "code": "w07",
+    "type": "sword",
+    "attack": 27,
+    "defense": 0,
+    "price": 3100,
+    "redbook": true
+  },
+  {
+    "name": "Champion sword",
+    "code": "w28",
+    "type": "sword",
+    "attack": 31,
+    "defense": 0,
+    "greenbook": true
+  }
+]

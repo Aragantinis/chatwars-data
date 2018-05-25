@@ -8,13 +8,20 @@
       "defense": 0.3
     },
     "skills": [
-      { "name": "skill_name", "code": "00" },
-      { "name": "skill_name", "code": "00" },
-      { "name": "skill_name", "code": "00" },
-      { "name": "skill_name", "code": "00" },
-      { "name": "skill_name", "code": "00" },
-      { "name": "skill_name", "code": "00" },
-      { "name": "skill_name", "code": "00" }
+      { "name": "Agile Soldier", "code": "as" },
+      { "name": "Armor Mastery", "code": "am" },
+      { "name": "Barn Robber", "code": "brr" },
+      { "name": "Rare Mutation", "code": "brm" },
+      { "name": "Critical Hit", "code": "crt" },
+      { "name": "Curiousity", "code": "cty" },
+      { "name": "Dagger Mastery", "code": "dg" },
+      { "name": "Enlightened Warrior", "code": "ew" },
+      { "name": "Light Armor Mastery", "code": "lm" },
+      { "name": "Prudent Duelist", "code": "dl" },
+      { "name": "Raider", "code": "rdr" },
+      { "name": "Sword Mastery", "code": "swd" },
+      { "name": "Tight Grip", "code": "tgp" },
+      { "name": "Weapon Mastery", "code": "wm" }
     ]
   },
   {
@@ -26,13 +33,20 @@
       "defense": 0.7
     },
     "skills": [
-      { "name": "skill_name", "code": "00" },
-      { "name": "skill_name", "code": "00" },
-      { "name": "skill_name", "code": "00" },
-      { "name": "skill_name", "code": "00" },
-      { "name": "skill_name", "code": "00" },
-      { "name": "skill_name", "code": "00" },
-      { "name": "skill_name", "code": "00" }
+      { "name": "All That Glitters", "code": "glt" },
+      { "name": "Armor Mastery", "code": "am" },
+      { "name": "Rare Mutation", "code": "brm" },
+      { "name": "Curiousity", "code": "cty" },
+      { "name": "Enduring Shieldbearer", "code": "ens" },
+      { "name": "Enlightened Warrior", "code": "ew" },
+      { "name": "Heavy Armor Mastery", "code": "hm" },
+      { "name": "Protector", "code": "prt" },
+      { "name": "Prudent Duelist", "code": "dl" },
+      { "name": "Scavanger", "code": "scv" },
+      { "name": "Shield Mastery", "code": "shd" },
+      { "name": "Spear Mastery", "code": "spr" },
+      { "name": "Tactics", "code": "tcs" },
+      { "name": "Weapon Mastery", "code": "wm" }
     ]
   },
   {
@@ -44,13 +58,20 @@
       "defense": 0.4
     },
     "skills": [
-      { "name": "skill_name", "code": "00" },
-      { "name": "skill_name", "code": "00" },
-      { "name": "skill_name", "code": "00" },
-      { "name": "skill_name", "code": "00" },
-      { "name": "skill_name", "code": "00" },
-      { "name": "skill_name", "code": "00" },
-      { "name": "skill_name", "code": "00" }
+      { "name": "Accuracy", "code": "acc" },
+      { "name": "Aiming", "code": "aim" },
+      { "name": "Armor Mastery", "code": "am" },
+      { "name": "Bow Mastery", "code": "bwm" },
+      { "name": "Rare Mutation", "code": "brm" },
+      { "name": "Curiousity", "code": "cty" },
+      { "name": "Enlightened Warrior", "code": "ew" },
+      { "name": "Hawkeye", "code": "eye" },
+      { "name": "Light Armor Mastery", "code": "lm" },
+      { "name": "Look! A coin!", "code": "lcn" },
+      { "name": "Perceptive Seeker", "code": "ps" },
+      { "name": "Prudent Duelist", "code": "dl" },
+      { "name": "Tight Grip", "code": "tgp" },
+      { "name": "Weapon Mastery", "code": "wm" }
     ]
   },
   {
@@ -62,13 +83,20 @@
       "defense": 0.55
     },
     "skills": [
-      { "name": "skill_name", "code": "00" },
-      { "name": "skill_name", "code": "00" },
-      { "name": "skill_name", "code": "00" },
-      { "name": "skill_name", "code": "00" },
-      { "name": "skill_name", "code": "00" },
-      { "name": "skill_name", "code": "00" },
-      { "name": "skill_name", "code": "00" }
+      { "name": "Armor Mastery", "code": "am" },
+      { "name": "Blacksmith's Wonders", "code": "bw" },
+      { "name": "Blunt Mastery", "code": "blm" },
+      { "name": "Broker", "code": "br" },
+      { "name": "Collection", "code": "cll" },
+      { "name": "Crafting", "code": "cft" },
+      { "name": "Educated Technician", "code": "et" },
+      { "name": "Hamster", "code": "hmr" },
+      { "name": "Labeling", "code": "lb" },
+      { "name": "Natural Talent", "code": "nt" },
+      { "name": "Robe Armor Mastery", "code": "rm" },
+      { "name": "Smart Explorer", "code": "se" },
+      { "name": "Weapon Mastery", "code": "wm" },
+      { "name": "Work to Standards", "code": "ws" }
     ]
   },
   {
@@ -80,13 +108,19 @@
       "defense": 0.45
     },
     "skills": [
-      { "name": "skill_name", "code": "00" },
-      { "name": "skill_name", "code": "00" },
-      { "name": "skill_name", "code": "00" },
-      { "name": "skill_name", "code": "00" },
-      { "name": "skill_name", "code": "00" },
-      { "name": "skill_name", "code": "00" },
-      { "name": "skill_name", "code": "00" }
+      { "name": "Armor Mastery", "code": "am" },
+      { "name": "Blunt Mastery", "code": "blm" },
+      { "name": "Collection", "code": "cll" },
+      { "name": "Crafting", "code": "cft" },
+      { "name": "Educated Technician", "code": "et" },
+      { "name": "Gifted Pathfinder", "code": "gp" },
+      { "name": "Hamster", "code": "hmr" },
+      { "name": "Labeling", "code": "lb" },
+      { "name": "Light Armor Mastery", "code": "lm" },
+      { "name": "Perception", "code": "prn" },
+      { "name": "Smart Explorer", "code": "se" },
+      { "name": "Tight Grip", "code": "tgp" },
+      { "name": "Weapon Mastery", "code": "wm" }
     ]
   },
   {
@@ -98,13 +132,21 @@
       "defense": 0.60
     },
     "skills": [
-      { "name": "skill_name", "code": "00" },
-      { "name": "skill_name", "code": "00" },
-      { "name": "skill_name", "code": "00" },
-      { "name": "skill_name", "code": "00" },
-      { "name": "skill_name", "code": "00" },
-      { "name": "skill_name", "code": "00" },
-      { "name": "skill_name", "code": "00" }
+      { "name": "Alchemy", "code": "alm" },
+      { "name": "Armor Mastery", "code": "am" },
+      { "name": "Blacksmith's Wonders", "code": "bw" },
+      { "name": "Collection", "code": "cll" },
+      { "name": "Combat Potions Mastery", "code": "cpm" },
+      { "name": "Crafting", "code": "cft" },
+      { "name": "Educated Technician", "code": "et" },
+      { "name": "Hamster", "code": "hmr" },
+      { "name": "Harvest", "code": "hst" },
+      { "name": "Labeling", "code": "lb" },
+      { "name": "Long Life", "code": "ll" },
+      { "name": "Robe Armor Mastery", "code": "rm" },
+      { "name": "Smart Explorer", "code": "se" },
+      { "name": "Weapon Mastery", "code": "wm" },
+      { "name": "Wise Alchemist", "code": "wal" }
     ]
   }
 ]
